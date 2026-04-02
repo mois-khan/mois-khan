@@ -11,7 +11,7 @@
 
 ## Hey, I'm Md. Mois Khan 👋
 
-I build **full-stack web and Android applications** that solve real-world problems — and I make them smarter with **AI**. I'm a third-year Computer Science student at Malla Reddy Engineering College And Management Sciences, Hyderabad, passionate about shipping products that actually matter.
+I build **full-stack applications** that solve real-world problems — and I make them smarter with **AI**. I'm a third-year Computer Science student at Malla Reddy Engineering College And Management Sciences, Hyderabad, passionate about shipping products that actually matter.
 
 ---
 
