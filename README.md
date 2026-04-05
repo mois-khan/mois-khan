@@ -41,17 +41,6 @@ A web app that factors in police stations, hospitals, street lighting, and more 
 
 ---
 
-## Skills
-
-**Languages:** JavaScript (ES6+), Python, HTML5, CSS3  
-**Frontend:** React, Tailwind CSS, Figma  
-**Backend:** Node.js, Express, Django, Flask, REST APIs, WebSockets  
-**Databases:** MongoDB, MySQL, Supabase  
-**AI/ML:** Gemini 3.1 Flash, OpenAI API, LangChain, Hugging Face, Deepgram  
-**DevOps & Tools:** Git, GitHub, Vercel, Netlify, Postman, VS Code  
-
----
-
 ## Awards & Recognition
 
 🥈 **2nd Prize** — NYXORA MREM 2k26 (CallShield AI showcase)  
