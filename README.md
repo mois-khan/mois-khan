@@ -1,63 +1,34 @@
-# About Me
+## Md. Mois Khan
+**AI Product Builder · Full-Stack Developer · CS @ MREM, Hyderabad**
 
-<div align="left">
-  <a href="mailto:moiskhanmd9090@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://moiskhan.dev">
-    <img src="https://img.shields.io/badge/Portfolio-2563EB?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
-  </a>
-</div>
+[![Portfolio](https://img.shields.io/badge/Portfolio-moiskhan.dev-2563EB?style=flat-square)](https://moiskhan.dev)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-mois--khan-0A66C2?style=flat-square&logo=linkedin)](https://linkedin.com/in/mois-khan)
+[![Email](https://img.shields.io/badge/Email-contact@moiskhan.dev-EA4335?style=flat-square&logo=gmail)](mailto:contact@moiskhan.dev)
 
-## Hey, I'm Md. Mois Khan 👋
-
-I build **full-stack applications** that solve real-world problems — and I make them smarter with **AI**. I'm a third-year Computer Science student at Malla Reddy Engineering College And Management Sciences, Hyderabad, passionate about shipping products that actually matter.
+I build full-stack AI systems that solve real problems — from real-time scam detection to safety-aware navigation. 3rd-year CS student with a track record of shipping production-ready products and winning at national hackathons.
 
 ---
 
-## What I Do
+### Projects
 
-💻 **Full-Stack Development** — React frontends, Node.js backends, responsive design  
-🤖 **AI Integration** — LLM APIs (Gemini, OpenAI), speech-to-text, prompt engineering  
-🗄️ **Backend Systems** — REST APIs, WebSockets, database design (MongoDB, MySQL, Supabase)  
-
----
-
-## Featured Projects
-
-### 🚨 CallShield AI
-**Real-time phone scam detection — Android + AI**  
-Detects voice-based scams mid-call before users get defrauded. Uses Deepgram (speech-to-text) + Gemini 3.1 Flash for intelligent pattern detection. Achieves **sub-3 second latency** and **90%+ accuracy**.
-
-**Stack:** Node.js, WebSockets, Deepgram STT, Gemini 3.1 Flash, Flutter, Twilio, Android
+| Project | What it does | Stack |
+|---|---|---|
+| 🛡️ **[CallShield AI](https://github.com/mois-khan/CallShield-AI)** | Real-time voice scam detection — sub-3s latency, 2nd Prize @ NYXORA 2k26 | Node.js · WebSockets · Gemini · Deepgram |
+| 🗺️ **[SafeRoute AI](https://github.com/akavinashsingh/safeRoute-AI)** | Safety-first navigation using police, lighting & hospital proximity — 15% better routing | React · Node.js · OpenStreetMap · Python |
+| 📊 **[DealLens](https://github.com/mois-khan/DealLens)** | AI co-pilot that fact-checks startup pitch decks against live market data | React · Supabase · Gemini API |
 
 ---
 
-### 🗺️ SafeRoute AI
-**Navigation reimagined around safety — not just distance**  
-A web app that factors in police stations, hospitals, street lighting, and more to recommend safer routes through cities. Improved safety scores by **15%** over baseline algorithms.
-
-**Stack:** React, Node.js, OpenStreetMap, Python, Gemini API
+### Stack
+`React` `Node.js` `Python` `Supabase` `MongoDB` `Gemini API` `OpenAI` `LangChain` `Deepgram` `WebSockets`
 
 ---
 
-## Awards & Recognition
-
-🥈 **2nd Prize** — NYXORA MREM 2k26 (CallShield AI showcase)  
-🥇 **1st Prize** — Paper Presentation, Avazya 2k25 (Generative AI)  
-🏗️ **OpenAI x NXTWave Buildathon** — National-level buildathon participant  
-
----
-
-## Currently
-
-✨ **Open to:** Internships, freelance projects, and full-time roles after graduation  
-📍 **Based in:** Hyderabad, India  
-🔗 **Let's Connect:** [LinkedIn](https://linkedin.com/in/mois-khan) · [GitHub](https://github.com/mois-khan) · [Email](mailto:contact@moiskhan.dev)
+### Highlights
+- 🥈 2nd Prize — NYXORA MREM 2k26 (CallShield AI)
+- 🥇 1st Prize — Avazya 2k25 (Generative AI paper)
+- 🏗️ National Participant — OpenAI × NXTWave Buildathon
 
 ---
 
-## Get in Touch
-
-Have an interesting project? Want to collaborate? **[Drop me a message](mailto:contact@moiskhan.dev)** — I'd love to hear from you.
-
+📍 Hyderabad · **Open to internships & freelance** · [Let's talk →](mailto:contact@moiskhan.dev)
