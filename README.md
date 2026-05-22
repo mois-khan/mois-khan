@@ -13,9 +13,9 @@ I build full-stack AI systems that solve real problems — from real-time scam d
 
 | Project | What it does | Stack |
 |---|---|---|
-| 🛡️ **[CallShield AI](https://github.com/mois-khan/CallShield-AI)** | Real-time voice scam detection — sub-3s latency, 2nd Prize @ NYXORA 2k26 | Node.js · WebSockets · Gemini · Deepgram |
-| 🗺️ **[SafeRoute AI](https://github.com/akavinashsingh/safeRoute-AI)** | Safety-first navigation using police, lighting & hospital proximity — 15% better routing | React · Node.js · OpenStreetMap · Python |
-| 📊 **[DealLens](https://github.com/mois-khan/DealLens)** | AI co-pilot that fact-checks startup pitch decks against live market data | React · Supabase · Gemini API |
+| **[CallShield AI](https://github.com/mois-khan/CallShield-AI)** | Real-time voice scam detection — sub-3s latency, 2nd Prize @ NYXORA 2k26 | Node.js · WebSockets · Gemini · Deepgram |
+| **[SafeRoute AI](https://github.com/akavinashsingh/safeRoute-AI)** | Safety-first navigation using police, lighting & hospital proximity — 15% better routing | React · Node.js · OpenStreetMap · Python |
+| **[DealLens](https://github.com/mois-khan/DealLens)** | AI co-pilot that fact-checks startup pitch decks against live market data | React · Supabase · Gemini API |
 
 ---
 
