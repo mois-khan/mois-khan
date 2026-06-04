@@ -16,15 +16,17 @@ I build full-stack AI systems that solve real problems — from real-time scam d
 | **[CallShield AI](https://github.com/mois-khan/CallShield-AI)** | Real-time voice scam detection — sub-3s latency, 2nd Prize @ NYXORA 2k26 | Node.js · WebSockets · Gemini · Deepgram |
 | **[SafeRoute AI](https://github.com/akavinashsingh/safeRoute-AI)** | Safety-first navigation using police, lighting & hospital proximity — 15% better routing | React · Node.js · OpenStreetMap · Python |
 | **[DealLens](https://github.com/mois-khan/DealLens)** | AI co-pilot that fact-checks startup pitch decks against live market data | React · Supabase · Gemini API |
+| **[OneSpace](https://github.com/mois-khan/OneSpace)** | OneSpace is a unified SaaS ecosystem designed to eliminate the "fragmentation tax" paid by multi-center coworking operators. Instead of juggling spreadsheets, WhatsApp, and disconnected tools, OneSpace consolidates the entire business lifecycle into a single, high-clarity dashboard. | Next.js · React · TypeScript · Tailwind CSS |
 
 ---
 
 ### Stack
-`React` `Node.js` `Python` `Supabase` `MongoDB` `Gemini API` `OpenAI` `LangChain` `Deepgram` `WebSockets`
+`React` `Node.js` `Next.js` `TypeScript` `Tailwind CSS` `JavaScript` `Python` `Supabase` `MongoDB` `Gemini API` `OpenAI` `LangChain` `Deepgram` `WebSockets`
 
 ---
 
 ### Highlights
+- 🥇 Winner(Internship) — SummerShip Challenge 2026 (OneSpace)
 - 🥈 2nd Prize — NYXORA MREM 2k26 (CallShield AI)
 - 🥇 1st Prize — Avazya 2k25 (Generative AI paper)
 - 🏗️ National Participant — OpenAI × NXTWave Buildathon
